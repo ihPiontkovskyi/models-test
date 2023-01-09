@@ -1,18 +1,62 @@
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+# Title
+name: Calamp models
+baseurl: '/'
 navigation:
-  - url: BobcatApplicationMessage
-  - url: BobcatEngineFaultCodesMessage
-  - url: BobcatHeatmapMessage
-  - url: BobcatInstantMessage
-  - url: BobcatMultipleFaultMessage
-  - url: BobcatRunMessage
-  - url: BobcatRunUsageMessage
-  - url: BobcatSoftMessage
-  - url: CalampEvent
-  - url: CalampIngestEvent
-  - url: CalampStatus
-  - url: CalampType2Event
-  - url: CalampType5Event
-  - url: CommandResult
-  - url: CommState
-  - url: FixStatus
-  - url: MachineStatus
+  - text: Bobcat application message
+    internal: true
+    url: BobcatApplicationMessage
+  - text: Bobcat engine fault codes message
+    internal: true
+    url: Bobcat engine fault codes message
+  - text: Bobcat heatmap message
+    internal: true
+    url: Bobcat heatmap message
+  - text: Bobcat instant message
+    internal: true
+      url: BobcatInstantMessage
+  - text: Bobcat multiple fault message
+    internal: true
+    url: BobcatMultipleFaultMessage
+  - text: Bobcat run message
+    internal: true
+    url: BobcatRunMessage
+  - text: Bobcat run usage message
+    internal: true
+    url: BobcatRunUsageMessage
+  - text: Bobcat soft message
+    internal: true
+    url: BobcatSoftMessage
+  - text: Calamp event
+    internal: true
+    url: Calamp event
+  - text: Calamp ingest event
+    internal: true
+    url: Calamp ingest event
+  - text: Calamp status
+    internal: true
+    url: Calamp status
+  - text: Calamp type 2 event
+    internal: true
+    url: CalampType2Event
+  - text: Calamp type 5 event
+    internal: true
+    url: CalampType5Event
+  - text: Command result
+    internal: true
+    url: CommandResult
+  - text: Comm state
+    internal: true
+    url: CommState
+  - text: Fix status
+    internal: true
+    url: FixStatus
+  - text: Machine status
+    internal: true
+    url: MachineStatus
