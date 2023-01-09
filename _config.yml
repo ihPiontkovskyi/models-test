@@ -20,7 +20,7 @@ navigation:
     url: Bobcat heatmap message
   - text: Bobcat instant message
     internal: true
-      url: BobcatInstantMessage
+    url: BobcatInstantMessage
   - text: Bobcat multiple fault message
     internal: true
     url: BobcatMultipleFaultMessage
