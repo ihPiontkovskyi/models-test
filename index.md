@@ -1,4 +1,12 @@
-# calamp-models
+# Calamp models
+
+## Table of Contents
+1. [Compiling and deploying](#Compiling and deploying)
+2. [Usage](#Usage)
+3. [Model Serializing](#Model Serializing)
+4. [Model Deserializing](#Model Deserializing)
+5. [Details for models](#Details for models)
+
 
 ## Compiling and deploying
 
@@ -288,22 +296,4 @@ CalampType5Event and CalampType2Event inherit CalampIngestEvent, and CalampInges
 
 Same approach was used for application message
 
-[BobcatApplicationMessage](/BobcatApplicationMessage.md))
-[BobcatApplicationMessage](/BobcatApplicationMessage.md)
-[BobcatEngineFaultCodesMessage](/BobcatEngineFaultCodesMessage.md)
-[BobcatHeatmapMessage](/BobcatHeatmapMessage.md)
-[BobcatInstantMessage](/BobcatInstantMessage.md)
-[BobcatMultipleFaultMessage](/BobcatMultipleFaultMessage.md)
-[BobcatRunMessage](/BobcatRunMessage.md)
-[BobcatRunUsageMessage](/BobcatRunUsageMessage.md)
-[BobcatSoftMessage](/BobcatSoftMessage.md)
-[CalampEvent](/CalampEvent.md)
-[CalampIngestEvent](/CalampIngestEvent.md)
-[CalampStatus](/CalampStatus.md)
-[CalampType2Event](/CalampType2Event.md)
-[CalampType5Event](/CalampType5Event.md)
-[CommandResult](/CommandResult.md)
-[CommState](/CommState.md)
-[FixStatus](/FixStatus.md)
-[MachineStatus](/MachineStatus.md)
 
