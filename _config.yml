@@ -1,23 +1,10 @@
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - BobcatApplicationMessage.md
-  - BobcatEngineFaultCodesMessage.md
-  - BobcatHeatmapMessage.md
-  - BobcatInstantMessage.md
-  - BobcatMultipleFaultMessage.md
-  - BobcatRunMessage.md
-  - BobcatRunUsageMessage.md
-  - BobcatSoftMessage.md
-  - CalampEvent.md
-  - CalampIngestEvent.md
-  - CalampStatus.md
-  - CalampType2Event.md
-  - CalampType5Event.md
-  - CommandResult.md
-  - CommState.md
-  - FixStatus.md
-  - MachineStatus.md
+lsi: false
+safe: true
+source: [your repo's top level directory]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
