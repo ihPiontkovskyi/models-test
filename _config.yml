@@ -1,6 +1,18 @@
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
+navigation:
+  - url: BobcatApplicationMessage
+  - url: BobcatEngineFaultCodesMessage
+  - url: BobcatHeatmapMessage
+  - url: BobcatInstantMessage
+  - url: BobcatMultipleFaultMessage
+  - url: BobcatRunMessage
+  - url: BobcatRunUsageMessage
+  - url: BobcatSoftMessage
+  - url: CalampEvent
+  - url: CalampIngestEvent
+  - url: CalampStatus
+  - url: CalampType2Event
+  - url: CalampType5Event
+  - url: CommandResult
+  - url: CommState
+  - url: FixStatus
+  - url: MachineStatus
