@@ -1,6 +1,3 @@
-plugins:
-  - jekyll-default-layout
-theme: just-the-docs
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
