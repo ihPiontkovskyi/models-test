@@ -4,6 +4,5 @@ exclude:
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-# Title
 name: Calamp models
 remote_theme: just-the-docs/just-the-docs
