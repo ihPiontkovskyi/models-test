@@ -3,4 +3,4 @@ highlighter: rouge
 permalink: pretty
 # Title
 name: Calamp models
-remote_theme: sighingnow/jekyll-gitbook
+remote_theme: just-the-docs/just-the-docs
