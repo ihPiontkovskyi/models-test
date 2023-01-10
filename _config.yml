@@ -3,4 +3,4 @@ highlighter: rouge
 permalink: pretty
 # Title
 name: Calamp models
-
+remote_theme: pmarsceill/just-the-docs
